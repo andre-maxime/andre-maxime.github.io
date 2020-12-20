@@ -37,8 +37,8 @@ Lycée Victor Hugo à Lunel <br>
 
 <h3 id="exppro">Expérience Professionnelle</h3>
 
-__2019-2020__ <br>
-Electrotechnique, Consultant études électrotechniques à [CapGemini](https://www.linkedin.com/company/CapGemini/) <br>
+__2019-2020 Electrotechnique, Consultant études électrotechniques à [CapGemini](https://www.linkedin.com/company/CapGemini/)__<br>
+
 
 __Client : BeAM (Conception de machines de construction additive)__
 
