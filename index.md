@@ -37,9 +37,29 @@ Lycée Victor Hugo à Lunel <br>
 
 <h3 id="exppro">Expérience Professionnelle</h3>
 
-__Mars-Août 2020__ <br>
-Stage de fin de formation Master Informatique (Images, Games and Intelligent Agents)  à [GearProd](https://www.linkedin.com/company/gearprod/) (Programmation GamePlay)<br>
-Unity3D, C#, C++, HLSL, HFSM, Programmation Gameplay.<br>
+__2019-2020__ <br>
+Electrotechnique, Consultant études électrotechniques à [CapGemini](https://www.linkedin.com/company/CapGemini/) <br>
+
+__Client : BeAM (Conception de machines de construction additive)__
+
+Au sein du bureau d’études :
+- Modification et correction des schémas électriques (logiciel E-plan P8)
+- Optimisation des armoires électriques Dimensionnement des composants électriques (Alimentation driver : Sizer)
+- Optimisation des modules (entrées et sorties) de l’automate
+- industriel (Siemens ET 200SP)
+
+Installation et SAV :
+- Mise en service de machines sur site client
+- Dépannage .
+
+__Client : Alstom (ferroviaire)__
+
+Validation du MP05 (métro parisien) et du BFC(train régional bourgogne franche comté) :
+- rédaction de procédure de validation
+- réalisation des essais
+- investigation et identification des disfonctionnements.
+- création des spécification de modification software et hardware.
+
 
 __Juillet-Août 2019__ <br>
 Développeur Web à [FROM-SCRATCH E.U.R.L](https://www.linkedin.com/company/fromscratchfr)<br>
