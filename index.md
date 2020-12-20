@@ -58,23 +58,5 @@ Lycée Victor Hugo à Lunel <br>
 
 <h3 id="exppro">Expérience Professionnelle</h3>
 
-__Mars-Août 2020__ <br>
-Stage de fin de formation Master Informatique (Images, Games and Intelligent Agents)  à [GearProd](https://www.linkedin.com/company/gearprod/) (Programmation GamePlay)<br>
-Unity3D, C#, C++, HLSL, HFSM, Programmation Gameplay.<br>
-
-__Juillet-Août 2019__ <br>
-Développeur Web à [FROM-SCRATCH E.U.R.L](https://www.linkedin.com/company/fromscratchfr)<br>
-E-commerce, Wordpress, PHP, Javascript, Responsive, PHPmyadmin, SQL.<br>
-
-__Juillet-Août 2018__ <br>
-Refonte de site Web de l'ensemble scolaire La Présentation - St Joseph à Ganges<br>
-[http://lapresentation-saintjoseph.fr/](http://lapresentation-saintjoseph.fr/)<br>
-
-__Juin-Août 2017__ <br>
-Ouvrier viticole polyvalent dans l'exploitation familiale. <br>
-
-__Avril-février 2016__ <br>
-Stage de fin de formation de DUT  à [FROM-SCRATCH E.U.R.L](https://www.linkedin.com/company/fromscratchfr) (Développeur Web)<br>
-E-commerce, Wordpress, PHP, Javascript, Responsive, PHPmyadmin, SQL.<br>
 
 ---
